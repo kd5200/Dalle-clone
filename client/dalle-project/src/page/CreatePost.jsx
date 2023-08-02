@@ -27,7 +27,7 @@ const CreatePost = () => {
     if (form.prompt) {
       try {
         setGeneratingImg(true);
-        const response = await fetch('http://localhost:8001/api/v1/dalles', {
+        const response = await fetch('https://dalle-clone-ciw7.onrender.com/', {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
@@ -55,7 +55,7 @@ const CreatePost = () => {
     if (form.prompt && form.photo) {
       setLoading(true);
       try {
-        const response = await fetch('http://localhost:8001/api/v1/post', {
+        const response = await fetch('https://dalle-clone-ciw7.onrender.com/', {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
