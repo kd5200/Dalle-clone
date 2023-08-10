@@ -6,10 +6,26 @@ This app uses AI to create realistic images and art from a description in natura
 
 #
 
-Images
+## Screenshot
 
 #
 
-![](./Images/Dalle.png)
+**Home Page with images that were previously generated** ![](./Images/Dalle.png)
 
-![](./Images/createPage.png)
+**Page where images can be generated**![](./Images/createPage.png)
+
+#
+
+## Tech Stack
+
+#
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbjr56D8SHrhNVyXC7fLpgRoP2g7J1K0peTQ&usqp=CAU" width="200" />
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvwt_-L-1JYMMBti3e_2orpbBbgVgZvyiRYMfOG7hEZHg0TCaOY3CmjLHjCb3RUGoWYuI&usqp=CAU" width="200" />
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBw25FhjiLpIn6zWhjFnz6V9Gpb3qMQ6EFwg&usqp=CAU" width="200" height="100" />
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2mU23CvfxDhNREyk6J4eierswWMPgm4EyeA&usqp=CAU" width="200" height="100" />
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOOJ-s6uslsNvshd_86A68mq_VYvitj4oZiA&usqp=CAU" width="200" height="100" />
